@@ -1,7 +1,7 @@
 <html>
 <head>
 <body>
-  <center><h1>My Bio-Data</h1></center><img src="passportphoto.gif">
+  <center><h1>My Bio-Data</h1></center><img src="DSC05891.JPG">
   <table>
     <tr>
       <th>Name:</th>
