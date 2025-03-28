@@ -1,7 +1,7 @@
 <html>
 <head>
 <body>
-  <center><h1>My Bio-Data</h1></center><img src="DSC05891.JPG">
+  <center><h1>My Bio-Data</h1></center><img src=" Screenshot_20250328-143749_1.jpg">
   <table>
     <tr>
       <th>Name:</th>
